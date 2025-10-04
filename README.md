@@ -1,5 +1,5 @@
 # Building-an-AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch-Completion-requirements
-## 🐱🐶🐼 Cats vs Dogs vs Pandas – Image Classification with PyTorch
+## Cats vs Dogs vs Pandas – Image Classification with PyTorch
 📌 Overview
 This project is an image classification model that predicts whether an image is a cat, dog, or panda using transfer learning (ResNet18) in PyTorch.
 
